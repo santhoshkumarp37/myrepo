@@ -2,9 +2,7 @@ package com.ftd;
 
 public class Sample {
 
-	public static void main(String[] args) {
-		// TODO Auto-generated method stub
-
-	}
+	//Statemenet added to JACARANDA
+			private String emp;
 
 }
